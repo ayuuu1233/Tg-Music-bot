@@ -1,9 +1,3 @@
-bot.py
-
-# bot.py
-# Simple, ready-to-run Telegram Music Bot for Termux
-# Works with: python-telegram-bot==13.15 (for command handling)
-# and Pyrogram + PyTgCalls for voice chat streaming (user session required)
 
 import os
 import asyncio
